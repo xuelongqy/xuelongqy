@@ -47,12 +47,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xuelongqy/count.sv
 <br/> 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xuelongqy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Most Used Languages 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuelongqy&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xuelongqy&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuelongqy&hide_border=true" align="center" />
+</div>  
 
 <br/>  
 
