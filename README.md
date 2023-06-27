@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/27658205?v=4", width=160>
-<p>
-
 ### <div align="center">I'm codiss. I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![邮箱](https://img.shields.io/badge/xuelongqy@qq.com-c14438?style=plastic&link=mailto:xuelongqy@qq.com)](mailto:xuelongqy@qq.com)</div>
 <br/> 
 
