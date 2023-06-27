@@ -1,5 +1,5 @@
-### <div align="center">I'm codiss. I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![邮箱](https://img.shields.io/badge/xuelongqy@qq.com-c14438?style=plastic&link=mailto:xuelongqy@qq.com)](mailto:xuelongqy@qq.com)</div>
-<br/> 
+## Hi there 👋, I'm codiss. 
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![邮箱](https://img.shields.io/badge/xuelongqy@qq.com-c14438?style=plastic&link=mailto:xuelongqy@qq.com)](mailto:xuelongqy@qq.com)
 
 - 🚀 I use daily:
   ![Dart](https://img.shields.io/badge/-Dart-F6C915?logo=dart&logoColor=F16061)
@@ -39,8 +39,6 @@
 <br/>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/xuelongqy/count.svg) visitor, Thank You!🎉🎉
-
-<br/> 
 
 ## Github Stats  
 <div align="center">
